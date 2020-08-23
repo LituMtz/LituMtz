@@ -1,4 +1,4 @@
-### Holi 👋🏻, soy [Litu]
+### Holi 👋🏻, soy Litu
 
 <br/>
 
