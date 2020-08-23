@@ -1,6 +1,10 @@
 ### Holi 👋🏻, soy Litu
 
+<br/>
 
+<a href="https://twitter.com/LituMtz">
+  <img align="left" alt="Mi twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />
+</a>
 
 <br />
 
@@ -13,7 +17,7 @@ Hola soy Litu, una persona normal que le gusta estudiar y jugar, lo tipico. Actu
 **Cosas Personales, nomas:**
 
 - 🌱 Estoy aprendiendo actualmente C++ y Python; 
-- 🤔 Estoy buscando a alguien de ayuda para enseñarme mejor 😭;
+- 🤔 Estoy buscando a alguien de ayuda para enseñarme mejor 👍;
 - 💬 Preguntame lo que sea, intentare ayudar;
 - ⚡️ Fun-Fact: Soy considerado un prodigio para algunas personas. 
 - 📫 Contactame en: Lit#6294;
