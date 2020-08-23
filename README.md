@@ -1,10 +1,6 @@
 ### Holi 👋🏻, soy Litu
 
-<br/>
 
-<a href="https://twitter.com/LituMtz">
-  <img align="left" alt="Mi twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg />
-</a>
 
 <br />
 
