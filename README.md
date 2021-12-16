@@ -16,7 +16,7 @@ Hola soy Litu, una persona normal que le gusta estudiar y jugar, lo tipico. Actu
   
 **Cosas Personales, nomas:**
 
-- 🌱 Estoy aprendiendo actualmente C++ y Python; 
+- 🌱 Estoy aprendiendo actualmente C y Python; 
 - 🤔 Estoy buscando a alguien de ayuda para enseñarme mejor 👍;
 - 💬 Preguntame lo que sea, intentare ayudar;
 - ⚡️ Fun-Fact: Soy considerado un prodigio para algunas personas. 
